@@ -1,0 +1,6 @@
+#body{
+    background-image: url(pic.png);
+    background-repeat: no-repeat;
+    width: 200% !important;
+    height: 100vh !important;
+}
